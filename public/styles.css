@@ -1,0 +1,38 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .span{
+    color: rgb(59, 171, 171);
+    font-weight: bold;
+  }
+
+  .outer{
+    margin-top: 40px;
+    align-items: center;
+  }
+
+  .image{
+    margin-bottom: 40px;
+    margin-top: 30px;;
+  }
+
+  .textbox{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+  }
+
+  .butt{
+    position: relative;
+    left: 110px;
+    top: 30px;
+  }
+
+  .heading{
+    text-align: center;
+  }
+  
